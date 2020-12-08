@@ -1,4 +1,3 @@
-//code gebruikt van het interenet voor deel 2 want geen zin in manueel checks schrijven :(
 using namespace std;
 #define _crt_secure_no_warnings
 #include <vector>
